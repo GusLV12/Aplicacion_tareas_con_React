@@ -33,3 +33,8 @@
   color: #fff;
   text-transform: capitalize;
 }
+
+.tarea-boton:hover{
+  background-color: rgb(57, 162, 228);
+  border: 1px solid black;
+}
